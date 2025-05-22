@@ -1,0 +1,3 @@
+## Technology Job Specs in Markdown 
+
+So we never have to write a standard job spec again for a new company...
